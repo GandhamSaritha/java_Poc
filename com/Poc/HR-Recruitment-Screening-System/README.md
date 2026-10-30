@@ -23,39 +23,37 @@ Key Features:
 
 Recruitment Screening Stages:
 Stage 1: Candidate Registration
-Full name
-Email address
-Mobile number
+ - Full name
+ - Email address
+ - Mobile number
 Stage 2: Educational Screening
-Degree qualification
-Minimum CGPA requirement (8.0)
-Active backlog verification
-Pass-out year (2024–2026)
+ - Degree qualification
+ - Minimum CGPA requirement (8.0)
+ - Active backlog verification
+ - Pass-out year (2024–2026)
 Stage 3: Technical Screening
-Java knowledge
-SQL knowledge
-Spring Boot knowledge
-Stage 4: Job Requirements
-Willingness to relocate
-Availability to join
+ - Java knowledge
+ - SQL knowledge
+ - Spring Boot knowledge
+ - Stage 4: Job Requirements
+ - Willingness to relocate
+ - Availability to join
 Stage 5: Experience Screening
-
 Experienced Candidates:
-Relevant work experience
-Previous company
-Designation
-Previous annual salary
-
+ - Relevant work experience
+ - Previous company
+ - Designation
+ - Previous annual salary
 Fresher Candidates:
-Internship details
-Internship duration
-Academic or personal projects
+ - Internship details
+ - Internship duration
+ - Academic or personal projects
 Stage 6: Final Screening Report
-Candidate information summary
-Candidate category
-Work experience details
-Final eligibility status
-Reasons for not meeting screening criteria
+ - Candidate information summary
+ - Candidate category
+ - Work experience details
+ - Final eligibility status
+ - Reasons for not meeting screening criteria
 
 Technical Concepts Used:
  - Java Classes and Methods
@@ -88,16 +86,16 @@ How to Run:
  - Complete all screening stages to view the final report.
 
 Screening Criteria:
-Criteria ->	Requirement
-Degree ->	Mandatory
-Minimum CGPA ->		8.0
-Active Backlogs	 ->	Not allowed
-Pass-out Year ->		2024–2026
-Java ->		Required
-SQL	 ->	Required
-Spring Boot ->		Required
-Relocation	 ->	Must be willing
-Joining Availability	 ->	Required
+Criteria ->	Requirement,
+Degree ->	Mandatory,
+Minimum CGPA ->		8.0,
+Active Backlogs	 ->	Not allowed,
+Pass-out Year ->		2024–2026,
+Java ->		Required,
+SQL	 ->	Required,
+Spring Boot ->		Required,
+Relocation	 ->	Must be willing,
+Joining Availability	 ->	Required.
 
 Learning Objectives:
 The objective of this POC is to understand how Core Java concepts can be applied to build a practical recruitment screening application.
